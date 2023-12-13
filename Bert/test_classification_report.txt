@@ -1,0 +1,11 @@
+Test Set - Classification Report:
+              precision    recall  f1-score   support
+
+  Irrelevant       0.93      0.89      0.91       171
+    Negative       0.94      0.91      0.92       266
+     Neutral       0.89      0.90      0.89       285
+    Positive       0.89      0.92      0.90       277
+
+    accuracy                           0.91       999
+   macro avg       0.91      0.91      0.91       999
+weighted avg       0.91      0.91      0.91       999
