@@ -1,0 +1,11 @@
+Validation Set - Classification Report:
+              precision    recall  f1-score   support
+
+  Irrelevant       0.94      0.91      0.92       171
+    Negative       0.95      0.92      0.94       266
+     Neutral       0.90      0.92      0.91       285
+    Positive       0.90      0.93      0.92       277
+
+    accuracy                           0.92       999
+   macro avg       0.92      0.92      0.92       999
+weighted avg       0.92      0.92      0.92       999
