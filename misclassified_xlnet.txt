@@ -1,0 +1,396 @@
+Misclassified Examples:
+
+Example 17 - True Label: Negative, Predicted Label: Positive
+Content: fuck my life 😆
+
+Example 19 - True Label: Negative, Predicted Label: Neutral
+Content: What does that say about Microsoft hardware & software security - The Man gets hacked
+
+Example 22 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Call of duty warzone (livestream) w/ subs #Warzone youtu.be/7BhH_pjOMU4 via @YouTube Please come watch this AMAZING Call of Duty Warzone stream from this AMAZING streamer! It'd be really, really nice to give him some views and likes as well! 😀 #COD #CallofDuty #Warzone
+
+Example 28 - True Label: Irrelevant, Predicted Label: Positive
+Content: Best squad yet#pubg #pubgmobile #pubgkenya instagram.com/p/B-Obt_eAA4f/…
+
+Example 59 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Ok I'm blocking this man's he is on a new level of being
+
+Example 68 - True Label: Neutral, Predicted Label: Positive
+Content: Seems like #Playstation has the marketing deal for #CallOfDutyBlackOpsColdWar 
+
+Feels good to be treated well by Playstation 🙌
+
+Example 72 - True Label: Negative, Predicted Label: Positive
+Content: God when 🥺
+
+Example 73 - True Label: Positive, Predicted Label: Neutral
+Content: @satyanadella @Microsoft thanks for celebrating #Diversity. We need positive energy these days.
+
+Example 77 - True Label: Irrelevant, Predicted Label: Neutral
+Content: NYUMMM DELICIOUS FINALLY SOME GOOD CONTENT NYUMM THE SKINS THE ASHER
+
+Example 91 - True Label: Negative, Predicted Label: Neutral
+Content: Leaked memo excoriates #Facebook’s ‘slapdash and haphazard’ response to global political manipulation dlvr.it/RgbzJD https://t.co/M7JAMQeF7e
+
+Example 93 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Wilson 💛
+
+Example 97 - True Label: Negative, Predicted Label: Positive
+Content: No one buy battlefield 3 on steam! It doesn’t have an app, it literally runs through a google search. Do not recommend it, it’s a waste of money #SteamSummerSale #SteamSummerSale2020
+
+Example 99 - True Label: Positive, Predicted Label: Neutral
+Content: #Indigo Urgent Care looks to Microsoft Teams and Microsoft’s Power Platform to help deliver quality care and world-class patient experience lnkd.in/eAzWmuB
+
+Example 104 - True Label: Neutral, Predicted Label: Positive
+Content: Watch StrapxAxHolic on Twitch! I think I'm pretty good at #ApexLegends twitch.tv/strapxaxholic?…
+#twitch #StreamingLive #APEX #twitchtv
+
+Example 105 - True Label: Positive, Predicted Label: Neutral
+Content: feels good to get a Victory in #ApexLegends with your high school buddies. we are all in our late 20's now.  @VictorpMeraz4  @NOLDRAY #FreaksAndGeeks deserved a second season!!!
+
+Example 112 - True Label: Negative, Predicted Label: Irrelevant
+Content: Why would you fuck your way to the bottom exactly?
+
+Example 119 - True Label: Neutral, Predicted Label: Positive
+Content: I am dota 2 dota 2 i like happy  -  Casey
+
+Example 148 - True Label: Positive, Predicted Label: Neutral
+Content: Completed #Fustercluck this weekend, rounding off year one of #Borderlands3. I decided to go back in response and play the original Borderlands again as I had the 4K GOTY version on my PC already. The shooting feels awful. I'm going to try some suggested ini changes tomorrow.
+
+Example 168 - True Label: Negative, Predicted Label: Neutral
+Content: Today I found out that Windows' Cortana actually sounds like Jen Taylor in America but nowhere else. What the fuck, microsoft?!
+
+Example 176 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Google  your name + horror + aesthetic.
+I don't exist enough so I had to use my middle name too😆🤓 pic.twitter.com/nkKXdSW8OR
+
+Example 177 - True Label: Neutral, Predicted Label: Positive
+Content: cs go ranked! ENG/CRO #fresh twitch.tv/vugidrugi
+
+Example 197 - True Label: Negative, Predicted Label: Positive
+Content: @EAMaddenNFL franchise and face of the franchise are both terrible. @NFL #NFLdropEA #NFLDROPSEA
+
+Example 213 - True Label: Negative, Predicted Label: Neutral
+Content: Plague of Corruption is #1 on Amazon and # 3 on The NY Times bestseller list. pic.twitter.com/mr2gbN43I9
+
+Example 215 - True Label: Irrelevant, Predicted Label: Positive
+Content: @roundedtiktak thank you 👍 #Fortnite #XboxShare pic.twitter.com/zWqOrFk0JN
+
+Example 218 - True Label: Positive, Predicted Label: Irrelevant
+Content: Wow
+
+Example 220 - True Label: Irrelevant, Predicted Label: Positive
+Content: It's our pleasure H
+
+Example 227 - True Label: Positive, Predicted Label: Neutral
+Content: Johnson & Johnson regains footing - Analysis - 15-04-2020: Johnson & Johnson's stock returned higher with a 4.48% profit, with support from the 50-day ... dlvr.it/RTqQdP
+
+Example 235 - True Label: Negative, Predicted Label: Neutral
+Content: @AndroidDev I've just noticed an issue while upgrading Android Gradle Plugin from 3.5.0 to 3.6.3, the google compile-testing library is crashing when retrieving resources.
+
+An example and more details are available there:
+github.com/glureau/AGP_3_…
+
+Is it something new?
+
+Example 240 - True Label: Irrelevant, Predicted Label: Negative
+Content: Yeeeee hell ya
+
+Example 241 - True Label: Irrelevant, Predicted Label: Positive
+Content: Quality tweet.
+
+Example 261 - True Label: Negative, Predicted Label: Neutral
+Content: @PlayApex I have problems to buy the battlepass with the new patch
+
+Example 287 - True Label: Neutral, Predicted Label: Positive
+Content: Flank with 9 kills #battlefieldV  #BFV #PS4share
+
+store.playstation.com/#!/tid=CUSA005… https://t.co/aUOvyejztc
+
+Example 300 - True Label: Irrelevant, Predicted Label: Neutral
+Content: HOW TO IMPRESS INDIAN GIRL
+sahilyaduvanshi.in/love-at-first-…
+#impressgirl #mrfaisu #fairness #raipur #chhattisgarh #chomic #boy #mridul #faisu #faisusquad #tiktok #tiktokmemes #impressgirlfriend #memes #pubg #skincare #urvashirautela #workout #ptlife #fair #fairskin #love
+
+Example 316 - True Label: Neutral, Predicted Label: Positive
+Content: Quick 4k, 
+#rainbowsixsiege #rainbowsix #ranked #tomclancy #streamer #stream #mixerfamily #mixerlove #mixer #mixerstreamer #mixerstreamersunite #mixerstream 
+
+mixer.com/kn_blunt instagram.com/p/B8xYQEHnNBA/…
+
+Example 320 - True Label: Positive, Predicted Label: Neutral
+Content: #WorldCupAtHome: Five African matches you would love to see from FIFA googlehits.com/worldcupathome… https://t.co/Lvr8g2vhsn
+
+Example 329 - True Label: Negative, Predicted Label: Neutral
+Content: @GhostRecon #GhostReconBreakpoint just took down a Terminator pic.twitter.com/qjrq9IC3be
+
+Example 347 - True Label: Irrelevant, Predicted Label: Positive
+Content: Red Dead Redemption 2 Load Times
+Xbox Series X: 38 Seconds
+PS5: 10-12 Seconds
+#XboxSeriesX #PS5 Yet again Sony still have the better machine
+
+Example 357 - True Label: Neutral, Predicted Label: Irrelevant
+Content: Kings 💯🔥
+
+Example 364 - True Label: Neutral, Predicted Label: Positive
+Content: Shipped first GPU-enabled production code through #bravetools! #LXD  makes it easy to passthrough host hardware and @nvidia drivers, while bravetools abstracts configuration and makes it easy to automate for all future releases 🚀 #AI #devops #OpenSource 
+
+github.com/bravetools/bra… https://t.co/92K5MYIaXx
+
+Example 365 - True Label: Irrelevant, Predicted Label: Neutral
+Content: (NA/PC) Come Vibe With Me. Messing Around In GTA !twitter twitch.tv/milzzz_ttd
+
+Example 376 - True Label: Negative, Predicted Label: Neutral
+Content: waow all these ps5 games are retracting their announcements for pc ports surely these are all just coincidental mistakes :o
+
+Example 377 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Happy birthday Gautam 😍😍
+
+Example 402 - True Label: Irrelevant, Predicted Label: Positive
+Content: Communication is Key. We bust they ASS 😂
+
+Example 409 - True Label: Neutral, Predicted Label: Positive
+Content: Dusty depot 😌😌
+
+Example 416 - True Label: Negative, Predicted Label: Neutral
+Content: I really, really hope Microsoft don’t do the taking away previously multi-platform stuff. It fucking sucks, it’s always fucking sucked.
+
+Example 425 - True Label: Neutral, Predicted Label: Positive
+Content: We did it. We found a way to do a lot of core and play hearthstone at the same time. I Introduce to you, Noz-Core-Mu. The Ultimate Challenge. Do Core until the rope starts burning, then play your turn.
+(Sorry for bad audio quality) clips.twitch.tv/ShortPunchyPel…
+
+Example 448 - True Label: Neutral, Predicted Label: Positive
+Content: Hey #jackwagons why dont you get over here and come say hi. Playing some #borderlands 2 and #chatting about #smallstreamer #SmallStreamerCommunity #TwitchStreamers #twitchaffiliate #Roadtopartner #twitch #twitchstreamer #SupportSmallStreamers #WTF over!
+
+twitch.tv/cblack47
+
+Example 458 - True Label: Irrelevant, Predicted Label: Negative
+Content: Worst thing about #PUBG banned is that all the players didn’t knew this ban till the App shown error in playing as non of them is in Social Media nor watch any NEWS 🤣🤣
+
+#PUBGMOBILE
+
+Example 466 - True Label: Negative, Predicted Label: Neutral
+Content: if you kill someone to make a point 
+
+of how Google 
+
+and Vice and the Ny Times 
+
+play to the life science companies 
+
+they'll use a horrible photo of you ...
+
+Example 476 - True Label: Negative, Predicted Label: Neutral
+Content: EXTRAORDINARY: Podcast about Deanna Berg's fight against bilateral ovarian #Cancer & her determination to hold Johnson & Johnson to account over its negligence in selling talc-based baby powder. 
+witnesspodcasts.com/shows/verified…
+
+Example 484 - True Label: Irrelevant, Predicted Label: Positive
+Content: Definitely getting this 🔥
+
+Example 490 - True Label: Neutral, Predicted Label: Negative
+Content: Ight @NBA2K false alarm pic.twitter.com/F4GBu2bVKb
+
+Example 499 - True Label: Neutral, Predicted Label: Irrelevant
+Content: 1.7 million viewers? wtf? and cs:go has more than minecraft and fortnite? seriously pic.twitter.com/NsBHo8i85Z
+
+Example 509 - True Label: Positive, Predicted Label: Neutral
+Content: It was a good day in #ApexLegends #XboxShare pic.twitter.com/LZ6B1OiPtt
+
+Example 544 - True Label: Neutral, Predicted Label: Positive
+Content: GOD JUST LET ME CUSTOMIZE MY MASSIVE COCK SMH
+
+Example 545 - True Label: Neutral, Predicted Label: Positive
+Content: My main reason for wanting the #PS5 is because the next God of War will eventually be on it. Until I get that announcement, I'll probably be waiting on it. Especially since RE8 will be on PC anyways. :3 Overall I'm excited for the games though! :D
+
+Example 570 - True Label: Negative, Predicted Label: Neutral
+Content: #NFLdropEA to ea from me your game is horrible the franchise mode is horrible mut is just a way for children to gamble with there mom's credit card face of the franchise is cheese and horrible and to this point I'd rather play a fan game than madden NFL please drop EA
+
+Example 575 - True Label: Negative, Predicted Label: Positive
+Content: Dota 2 making league of legends look good rn
+
+Example 586 - True Label: Irrelevant, Predicted Label: Positive
+Content: #XSXFridgeSweeps
+I need this in my life so badly
+
+Example 587 - True Label: Neutral, Predicted Label: Positive
+Content: While it's true that #GhostReconBreakpoint needs a lot of support and fixes, they definitely nailed the atmosphere and ambiance.  Some of these vistas are just incredible.  Here's hoping March 24th brings the changes the game needs. pic.twitter.com/mgHag6dlEM
+
+Example 610 - True Label: Irrelevant, Predicted Label: Neutral
+Content: This week in Disruptive Tech, curated by @rmnth 
+
+1. PUBG Ban 📵: A twist in the tale
+
+2. Why Facebook’s political-ad ban is trying to tackle the wrong problem
+
+3. When law enforcement 🚓 meets predictive algorithms 👨🏻‍💻
+
+foundingfuel.com/column/this-we…
+
+Example 620 - True Label: Positive, Predicted Label: Neutral
+Content: First we had code leaf, and now we have the pleasure to present code shoe thx @PlayApex pic.twitter.com/gTabW18JhP
+
+Example 626 - True Label: Positive, Predicted Label: Neutral
+Content: [PS4] | Assassins Creed Syndicate First Playthrough | Positive Vibes | Road To 800 Followers | live at twitch.tv/xklausmikaelso…
+
+Example 628 - True Label: Neutral, Predicted Label: Positive
+Content: Me and bae went paint-balling. I was on my call of duty shit pic.twitter.com/UHXbbuu7T4
+
+Example 630 - True Label: Irrelevant, Predicted Label: Neutral
+Content: In L6 mi remember when the two man dem did a fight over a FIFA match.
+
+To be honest it was more of a personal disrespect than the actual game.
+
+BUT STILL.
+
+Example 639 - True Label: Negative, Predicted Label: Neutral
+Content: Ummm Wth....
+#ApexLegends pic.twitter.com/eXcHRvG16o
+
+Example 644 - True Label: Irrelevant, Predicted Label: Positive
+Content: °_° *Gets bad flashback in movie theater*
+
+:) *Realize the Witcher was actually good*
+
+Example 647 - True Label: Neutral, Predicted Label: Positive
+Content: So #Maria was playing FIFA today.
+
+Example 652 - True Label: Irrelevant, Predicted Label: Negative
+Content: I can't believe that @realDonaldTrump lied.
+
+Example 660 - True Label: Neutral, Predicted Label: Positive
+Content: Chris loves me in borderlands one and two.
+
+Example 664 - True Label: Irrelevant, Predicted Label: Neutral
+Content: 👍 on @YouTube: PUBG MOBILE BEST TIKTOK VIDEOS | FUNNY MOMENTS | ELECTRO ICE ZARD youtube.com/watch?v=V6Erpx…
+
+Example 712 - True Label: Negative, Predicted Label: Positive
+Content: Holy shit
+
+Example 722 - True Label: Irrelevant, Predicted Label: Neutral
+Content: ‘Call of Duty’ Wins First Amendment Victory Over Use of Humvees alphatimenews.com/call-of-duty-w… https://t.co/bmSYMgUEEN
+
+Example 730 - True Label: Irrelevant, Predicted Label: Positive
+Content: #XSXFridgeSweeps 
+😂 Amazing
+
+Example 738 - True Label: Neutral, Predicted Label: Positive
+Content: Old screencaps from Assassin's Creed Odyssey when I found the wonder woman armour for Kassandra, and this nightmare of a horse.. pic.twitter.com/7shmVBGSV9
+
+Example 766 - True Label: Neutral, Predicted Label: Positive
+Content: Don't jump me... @CSGO #CSGO
+
+🔗 medal.tv/clips/16016123… https://t.co/8BAmw54jyL
+
+Example 772 - True Label: Irrelevant, Predicted Label: Positive
+Content: Pls guys stop, I'm tired to give you more like of these 🤣🤣🤣
+
+Example 777 - True Label: Irrelevant, Predicted Label: Positive
+Content: Yo the new event on PUBG is weird!
+
+Example 802 - True Label: Negative, Predicted Label: Positive
+Content: #𝐍𝐄𝐖𝐒𝐔𝐏𝐃𝐀𝐓𝐄𝐒 
+
+Global Cues
+
+-World market sentiment looks weak as US indices closed lower.
+
+-Tech #shares dragged the US markets and seen heavy selling.
+
+-#NASDAQ closes 3% lower lower as @Apple , @amazon , @nvidia slides 4%.
+
+#Nifty
+
+Example 810 - True Label: Neutral, Predicted Label: Positive
+Content: I'm WHEEZING
+
+Example 814 - True Label: Negative, Predicted Label: Positive
+Content: #Madden20 should make cross play a thing in the next madden! Also gift sending! Streamers would love this and it would help promote the game more with more youtubers being able to send gifts cross platform. @EA_KRAELO @EASPORTS_MUT @EAMaddenNFL
+
+Example 822 - True Label: Positive, Predicted Label: Neutral
+Content: Wendie Renard loses Fifa trophy on a train and appeals for its return dlvr.it/RMNwq2
+
+Example 825 - True Label: Negative, Predicted Label: Neutral
+Content: Madden NFL 21
+[PS4 - 65] metacritic.com/game/playstati…
+[XONE - 69] metacritic.com/game/xbox-one/…
+[PC] metacritic.com/game/pc/madden…
+GameSpot: "With far more technical issues than normal and large chunks of recycled content, Madden NFL 21 feels more like an update than a brand-new game." https://t.co/vRrgu2aspc
+
+Example 836 - True Label: Negative, Predicted Label: Neutral
+Content: India Bans 118 Chinese apps including PUBG #PUBG #PUBGMOBILE pic.twitter.com/4RT8ykyxM3
+
+Example 847 - True Label: Irrelevant, Predicted Label: Neutral
+Content: Are u crazy gloating as if u r his fan n not a responsible journo. Sorry expected u change but drummer never change. Why don’t u write a book u worshipper
+
+Example 848 - True Label: Negative, Predicted Label: Irrelevant
+Content: #BattlefieldV This is becoming a joke at this point... we havent heard anything since they got back and this is the best they can give us? no actual information on anything. It seems like they havent listened to any feedback to what this community wants.
+
+Example 850 - True Label: Negative, Predicted Label: Neutral
+Content: Welp, #ghostreconbreakpoint 's immersive update got delayed until later next month... pic.twitter.com/rqk5e2fE10
+
+Example 851 - True Label: Neutral, Predicted Label: Positive
+Content: Omg FOV Slider 😍
+
+Example 859 - True Label: Irrelevant, Predicted Label: Positive
+Content: @SpeakerPelosi this is VERY INTERESTING 🧐
+
+Example 865 - True Label: Negative, Predicted Label: Irrelevant
+Content: Fortnite is bullying me, aren’t they?
+I. NEED. HIM! pic.twitter.com/3q3yxUxkFY
+
+Example 866 - True Label: Positive, Predicted Label: Negative
+Content: #RainbowSixSiege where are hereford, plane, chalet and fortress in casual?! I miss the maps!!!
+
+Example 868 - True Label: Irrelevant, Predicted Label: Negative
+Content: Oh dear, I'm pleased I'm over 18 😂
+#xbox #cod #CallofDuty #ModernWafare
+#CallofDutyModernWarfare pic.twitter.com/MNgNh6jLRo
+
+Example 880 - True Label: Irrelevant, Predicted Label: Positive
+Content: I’m gonna say this again @imjustbait is the funniest meme page ever 😌
+
+Example 886 - True Label: Positive, Predicted Label: Negative
+Content: Really!!!!!! @CallofDuty @InfinityWard #CallofDuty #Warzone #ModernWarfare
+
+store.playstation.com/#!/en-gb/tid=C… https://t.co/qTVaWqj9Gk
+
+Example 898 - True Label: Negative, Predicted Label: Positive
+Content: Sony dropping pre-orders fearing #RTX3000 series card, hoping people buy their 500$ console instead of rtx 3070, lol this has been one hell of a month 😅🤣, if it wasn't for Nvidia, neither MS or Sony would pull the veil off for Prices and pre-orders https://t.co/gZfEX6MZdn
+
+Example 903 - True Label: Negative, Predicted Label: Positive
+Content: Big💪 nyoos. Numewous gweat companies awe seeing🕵️ fantastic wesuwts. @FDA must myove quickwy RawR  twitter.com/nytimes/status…
+
+Example 912 - True Label: Negative, Predicted Label: Neutral
+Content: Suspicion and Anger Towards Microsoft Rises After Windows 10 Search Failure 
+tech.slashdot.org/story/20/02/09… 
+
+Even local file searches on users' own PC's were failing, yet Microsoft blamed a "third-party networking fiber provider".
+
+Example 919 - True Label: Irrelevant, Predicted Label: Negative
+Content: You mean real life crack epidemic?
+
+Example 920 - True Label: Irrelevant, Predicted Label: Neutral
+Content: The various people in a bad PvP chat 🤣⁠
+
+Visit out website at wowroleplaying.com
+Twitch.tv/wowroleplaying
+
+#warcraftmemes #warcraft #worldofwarcraft #alliance #horde #battleforazeroth #azeroth #forthealliance #forthehorde  #warcraftphotography #videogames #twitchtv #mmorpg https://t.co/w3aNoVPLAH
+
+Example 929 - True Label: Neutral, Predicted Label: Negative
+Content: Shitting around | Borderlands 3 | Part 5.5 twitch.tv/slayer3000bot
+
+Example 956 - True Label: Positive, Predicted Label: Negative
+Content: FUCKING FINALLLLYYYYYYYYY
+
+Example 961 - True Label: Irrelevant, Predicted Label: Neutral
+Content: PTA PUBG ban is unconstitutional in nature because it violates  article 18 of the constitution of the islamic republic of pakistan. The employees involved should be suspended
+ #PTALiftBanOnPUBG
+#unbanpubginpakistan 
+#SavePakistanEsports 
+ @PTAofficialpk @ZakaWaqar pic.twitter.com/Pxh87DXB2Z
+
+Example 962 - True Label: Irrelevant, Predicted Label: Positive
+Content: HOW DID I MISS THIS I CANT EVEN BLAME SCHOOL ARE YOU KIDDING ME
+

@@ -1,0 +1,284 @@
+Misclassified Examples:
+
+Example 24 - True Label: Neutral, Predicted Label: Negative
+Content: apexlegends : when i die it say bug this
+
+Example 27 - True Label: Irrelevant, Predicted Label: Neutral
+Content: overwatch : they might not be the last team that have to make this difficult decision update blizzard game
+
+Example 32 - True Label: Negative, Predicted Label: Neutral
+Content: johnson&johnson : knowingly sell baby powder contain asbestos for decade and be now task with produce vaccine along with corporate criminal who receive the 2nd large fine in corporate history for their various crime trust them
+
+Example 36 - True Label: Neutral, Predicted Label: Positive
+Content: reddeadredemption(rdr) : i get the horse in the back red dead redemption 2 live at
+
+Example 59 - True Label: Irrelevant, Predicted Label: Neutral
+Content: tomclancysrainbowsix : i m block this man s he be on a new level of be
+
+Example 72 - True Label: Negative, Predicted Label: Positive
+Content: playstation5(ps5) : god when
+
+Example 73 - True Label: Positive, Predicted Label: Neutral
+Content: microsoft : thanks for celebrate diversity we need positive energy these day
+
+Example 77 - True Label: Irrelevant, Predicted Label: Positive
+Content: overwatch : delicious finally some good content the skin the
+
+Example 91 - True Label: Negative, Predicted Label: Neutral
+Content: facebook : leak memo excoriate s slapdash and haphazard response to global political manipulation
+
+Example 93 - True Label: Irrelevant, Predicted Label: Neutral
+Content: apexlegends : 
+
+Example 98 - True Label: Neutral, Predicted Label: Irrelevant
+Content: facebook : our ceremony be take place this 29 may celebrate the outstanding best inspiring work staff student within have do this year stream live 12 noon page trophy award
+
+Example 99 - True Label: Positive, Predicted Label: Neutral
+Content: microsoft : indigo urgent care look to team and s power platform to help deliver quality care and patient experience
+
+Example 111 - True Label: Neutral, Predicted Label: Irrelevant
+Content: hearthstone : buck be excite when hearthstone
+
+Example 132 - True Label: Neutral, Predicted Label: Positive
+Content: playerunknownsbattlegrounds(pubg) : pt would not stop crash on me tonight an issue i have never have with go to give it another shot in the be y all have a good night central a always
+
+Example 146 - True Label: Positive, Predicted Label: Neutral
+Content: tomclancysghostrecon : the chopper shot be stun fire
+
+Example 159 - True Label: Positive, Predicted Label: Neutral
+Content: verizon : excite news and be first in the world to achieve peak speed of 506
+
+Example 171 - True Label: Positive, Predicted Label: Irrelevant
+Content: tomclancysrainbowsix : excite for tonight a always eye i will be participate under s leadership and i m look forward to a terrific evening of if you be look for some siege to watch swing by and say hello from 1900
+
+Example 175 - True Label: Positive, Predicted Label: Irrelevant
+Content: overwatch : you be do god work
+
+Example 177 - True Label: Neutral, Predicted Label: Positive
+Content: cs-go : c go rank fresh
+
+Example 213 - True Label: Negative, Predicted Label: Neutral
+Content: amazon : plague of corruption be 1 on amazon and 3 on the time bestseller list
+
+Example 215 - True Label: Irrelevant, Predicted Label: Positive
+Content: fortnite : thank you
+
+Example 227 - True Label: Positive, Predicted Label: Neutral
+Content: johnson&johnson : regain foot analysis 15042020 s stock return high with a 448 profit with support from the
+
+Example 239 - True Label: Negative, Predicted Label: Neutral
+Content: maddennfl : when i first order it say standard would get to play 3 day early now only the other 2 version thanks a lot shake my head
+
+Example 240 - True Label: Irrelevant, Predicted Label: Negative
+Content: callofdutyblackopscoldwar : hell ya
+
+Example 248 - True Label: Negative, Predicted Label: Neutral
+Content: johnson&johnson : sale decline in yous due to cancer claim so the company decide to victimize people in the third world
+
+Example 256 - True Label: Positive, Predicted Label: Neutral
+Content: xbox(xseries) : damn be go all out in show off the new series x while have make a peep a a guy this thing sound like a screamer
+
+Example 276 - True Label: Negative, Predicted Label: Irrelevant
+Content: overwatch : i m just say it essentially be nominate for game of the year be bad than if rise of be nominate for film of the year at least in rise of if you slow the footage down and zoom in you can see gay shit if you squint
+
+Example 292 - True Label: Negative, Predicted Label: Neutral
+Content: nvidia : be seriously threatening super review
+
+Example 300 - True Label: Irrelevant, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : how to impress girl fairness boy meme skincare workout fair love
+
+Example 316 - True Label: Neutral, Predicted Label: Irrelevant
+Content: tomclancysrainbowsix : quick rank streamer stream mixer
+
+Example 320 - True Label: Positive, Predicted Label: Irrelevant
+Content: fifa : five match you would love to see from
+
+Example 329 - True Label: Negative, Predicted Label: Neutral
+Content: tomclancysghostrecon : just take down a terminator
+
+Example 346 - True Label: Positive, Predicted Label: Neutral
+Content: cs-go : we be crush c go over at congrats
+
+Example 347 - True Label: Irrelevant, Predicted Label: Positive
+Content: reddeadredemption(rdr) : red dead redemption 2 load time series x 38 second 1012 second yet again still have the good machine
+
+Example 376 - True Label: Negative, Predicted Label: Neutral
+Content: playstation5(ps5) : all these game be retract their announcement for pc port surely these be all just coincidental mistake o
+
+Example 377 - True Label: Irrelevant, Predicted Label: Neutral
+Content: apexlegends : happy birthday
+
+Example 392 - True Label: Negative, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : be no more available on android and
+
+Example 402 - True Label: Irrelevant, Predicted Label: Neutral
+Content: apexlegends : communication be key we bust they ass
+
+Example 404 - True Label: Positive, Predicted Label: Negative
+Content: hearthstone : this be insane what what what what what
+
+Example 405 - True Label: Positive, Predicted Label: Neutral
+Content: johnson&johnson : by combine product engagement content can now be continuously optimize learn how drive 38 sale lift in beauty and 62 sale lift in learn more
+
+Example 409 - True Label: Neutral, Predicted Label: Negative
+Content: fortnite : dusty depot
+
+Example 413 - True Label: Positive, Predicted Label: Neutral
+Content: amazon : hat pack this one but at least it sell and arrive safely laugh out loud flip thrift goodwill amazon
+
+Example 424 - True Label: Neutral, Predicted Label: Irrelevant
+Content: cs-go : choke in an round 30 big
+
+Example 443 - True Label: Positive, Predicted Label: Neutral
+Content: apexlegends : sd the best fps out be in love with but the toxic community and random operator base on player frustration level lose me be dope too though be cool make about 100 mil and only add new landing control good game
+
+Example 452 - True Label: Neutral, Predicted Label: Positive
+Content: worldofcraft : so much for fly
+
+Example 458 - True Label: Irrelevant, Predicted Label: Negative
+Content: playerunknownsbattlegrounds(pubg) : bad thing about ban be that all the player t know this ban till the application show error in play a non of them be in social medium nor watch any news
+
+Example 464 - True Label: Neutral, Predicted Label: Negative
+Content: leagueoflegends : this be about as far a i can go with it for the time be maybe i will revisit it later sorry
+
+Example 476 - True Label: Negative, Predicted Label: Neutral
+Content: johnson&johnson : extraordinary podcast about berg s fight against bilateral ovarian cancer her determination to hold to account over it negligence in sell baby powder
+
+Example 481 - True Label: Positive, Predicted Label: Neutral
+Content: microsoft : share via edge new york city school ban zoom due to security concern and shift to team
+
+Example 484 - True Label: Irrelevant, Predicted Label: Positive
+Content: callofdutyblackopscoldwar : definitely get this fire
+
+Example 488 - True Label: Negative, Predicted Label: Irrelevant
+Content: playstation5(ps5) : shake my head
+
+Example 490 - True Label: Neutral, Predicted Label: Negative
+Content: nba2k : false alarm
+
+Example 503 - True Label: Negative, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : how be ban go to fix anything all it s do be make everything bad what do they expect people to do in this
+
+Example 512 - True Label: Negative, Predicted Label: Positive
+Content: callofduty : this be chill
+
+Example 535 - True Label: Neutral, Predicted Label: Positive
+Content: hearthstone : the next major hearthstone update pay tribute to one of world of s best expansion
+
+Example 545 - True Label: Neutral, Predicted Label: Positive
+Content: playstation5(ps5) : my main reason for want the be because the next god of war will eventually be on it until i get that announcement i will probably be wait on it especially since will be on pc anyways 3 overall i m excite for the game though d
+
+Example 554 - True Label: Positive, Predicted Label: Negative
+Content: verizon : i can get on the phone with but i ca get on the phone with you have to be kid me
+
+Example 562 - True Label: Positive, Predicted Label: Neutral
+Content: microsoft : i just want to take a second to give a so to the microphone in word i say etymologically unrelated and it actually get it right wow we have come a long way baby
+
+Example 570 - True Label: Negative, Predicted Label: Neutral
+Content: maddennfl : to ea from me your game be horrible the franchise mode be horrible mut be just a way for child to gamble with there mom s credit card face of the franchise be cheese and horrible and to this point i would rather play a fan game than madden please drop ea
+
+Example 574 - True Label: Neutral, Predicted Label: Negative
+Content: apexlegends : you get a bug when a game rank be end my friend get 10 min and he do not leave the game
+
+Example 580 - True Label: Negative, Predicted Label: Positive
+Content: reddeadredemption(rdr) : red dead redemption 2 break me break my heart the wild west be a cruel place
+
+Example 586 - True Label: Irrelevant, Predicted Label: Positive
+Content: xbox(xseries) : i need this in my life so badly
+
+Example 617 - True Label: Positive, Predicted Label: Irrelevant
+Content: fortnite : happy birthday
+
+Example 620 - True Label: Positive, Predicted Label: Neutral
+Content: apexlegends : first we have code leaf and now we have the pleasure to present code shoe thank you
+
+Example 626 - True Label: Positive, Predicted Label: Neutral
+Content: assassinscreed : assassin creed syndicate first positive vibe road to 800 follower live at
+
+Example 628 - True Label: Neutral, Predicted Label: Irrelevant
+Content: callofduty : me and before anyone else go i be on my call of duty shit
+
+Example 635 - True Label: Irrelevant, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : cheater ban this random his kill me and my clan teammate i report mobile in game strict action against cheater
+
+Example 639 - True Label: Negative, Predicted Label: Neutral
+Content: apexlegends : 
+
+Example 660 - True Label: Neutral, Predicted Label: Positive
+Content: borderlands : love me in borderland one and two
+
+Example 669 - True Label: Negative, Predicted Label: Neutral
+Content: playstation5(ps5) : i love in general they always have my type of exclusive more so than but the design be not for me at all i know i ll get one eventually but i be go to hide that thing somehow when i do laugh out loud
+
+Example 715 - True Label: Positive, Predicted Label: Irrelevant
+Content: playerunknownsbattlegrounds(pubg) : have a pretty amazing time stream tonight be of fun thanks to everyone who come and hang
+
+Example 791 - True Label: Irrelevant, Predicted Label: Neutral
+Content: xbox(xseries) : stop act like your not educate stop with the b you know do have ultimate at least do lead people on with b
+
+Example 809 - True Label: Irrelevant, Predicted Label: Negative
+Content: battlefield : this be and he be troll people again troll
+
+Example 814 - True Label: Negative, Predicted Label: Neutral
+Content: maddennfl : should make cross play a thing in the next madden also gift send streamer would love this and it would help promote the game more with more be able to send gift cross platform
+
+Example 815 - True Label: Irrelevant, Predicted Label: Neutral
+Content: google : this be my 143rd twitter account i keep get suspend ruin my life i should be able to have a voice if you do not know me just google snaggletooth salon i give her bush an i may release the video retweet please follow and i m full of shit begging again
+
+Example 820 - True Label: Neutral, Predicted Label: Irrelevant
+Content: overwatch : our fan will be sad to learn that the match in china during and march and be reschedule
+
+Example 822 - True Label: Positive, Predicted Label: Irrelevant
+Content: fifa : lose trophy on a train and appeal for it return
+
+Example 836 - True Label: Negative, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : ban 118 application include
+
+Example 848 - True Label: Negative, Predicted Label: Irrelevant
+Content: battlefield : this be become a joke at this point we have not hear anything since they get back and this be the best they can give u no actual information on anything it seem like they have not listen to any feedback to what this community want
+
+Example 859 - True Label: Irrelevant, Predicted Label: Positive
+Content: facebook : this be very interesting
+
+Example 886 - True Label: Positive, Predicted Label: Negative
+Content: callofduty : really
+
+Example 887 - True Label: Neutral, Predicted Label: Positive
+Content: reddeadredemption(rdr) : game go wrong 11 fail compilation red dead redemption 2 c go black ops 4 funny moment
+
+Example 898 - True Label: Negative, Predicted Label: Neutral
+Content: nvidia : drop fear series card hop people buy their 500 dollar console instead of 3070 laugh out loud this have be one hell of a month if it be for neither miss or would pull the veil off for price and
+
+Example 903 - True Label: Negative, Predicted Label: Positive
+Content: johnson&johnson : company awe fantastic must
+
+Example 905 - True Label: Positive, Predicted Label: Irrelevant
+Content: playstation5(ps5) : tempt
+
+Example 927 - True Label: Neutral, Predicted Label: Negative
+Content: tomclancysghostrecon : what the fuck happen
+
+Example 928 - True Label: Negative, Predicted Label: Neutral
+Content: facebook : the giant along with google apple and be be investigate for potential violation of u antitrust law
+
+Example 954 - True Label: Positive, Predicted Label: Irrelevant
+Content: fortnite : rue so
+
+Example 956 - True Label: Positive, Predicted Label: Negative
+Content: callofdutyblackopscoldwar : fuck
+
+Example 959 - True Label: Positive, Predicted Label: Irrelevant
+Content: playstation5(ps5) : more beautiful than most girl i know
+
+Example 961 - True Label: Irrelevant, Predicted Label: Neutral
+Content: playerunknownsbattlegrounds(pubg) : ban be unconstitutional in nature because it violate article 18 of the constitution of the republic of the employee involve should be suspend
+
+Example 962 - True Label: Irrelevant, Predicted Label: Positive
+Content: fifa : how do i miss this i can not even blame school be you kid me
+
+Example 976 - True Label: Positive, Predicted Label: Irrelevant
+Content: callofduty : this quarantine get me bore play call of duty anyone wan call
+
+Example 998 - True Label: Positive, Predicted Label: Neutral
+Content: microsoft : buy a fraction of today small win
+
